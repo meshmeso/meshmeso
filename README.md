@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meshmeso
 - 👀 I’m interested in everything data science
-- 🌱 I did my masters in Data Science at Manchster Metropolitan University, the United kingdom
+- 🌱 I did my masters in Data Science at Manchster Metropolitan University, United kingdom
 - 💞️ I’m looking to collaborate on future machine learning, big data or deep learning projects
 - 📫 How to reach me +447990906375(text only), nwanejuafor@gmail.com, or @meshmeso on all platforms
 - 😄 Pronouns: ...
